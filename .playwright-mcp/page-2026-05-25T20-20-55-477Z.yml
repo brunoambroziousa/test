@@ -1,0 +1,59 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e43]:
+            - generic [ref=e46]: Create a pricing card component for a SaaS product.
+            - img [ref=e49]
+          - generic [ref=e52]:
+            - img [ref=e55]
+            - generic [ref=e60]:
+              - generic "/App.jsx" [ref=e61]:
+                - generic [ref=e63]: Creating
+                - generic [ref=e64]: App.jsx
+              - separator [ref=e65]
+              - paragraph [ref=e67]: "Now let me create the PricingCard component:"
+              - generic "/components/PricingCard.jsx" [ref=e68]:
+                - generic [ref=e70]: Creating
+                - generic [ref=e71]: PricingCard.jsx
+              - separator [ref=e72]
+              - generic [ref=e73]:
+                - paragraph [ref=e74]: "Done! I've created a pricing card component with:"
+                - list [ref=e75]:
+                  - listitem [ref=e76]:
+                    - strong [ref=e77]: 3 pricing tiers
+                    - text: (Starter, Professional, Enterprise)
+                  - listitem [ref=e78]:
+                    - strong [ref=e79]: Highlighted "Most Popular" plan
+                    - text: with distinct styling
+                  - listitem [ref=e80]:
+                    - strong [ref=e81]: Feature lists
+                    - text: with checkmark icons
+                  - listitem [ref=e82]:
+                    - strong [ref=e83]: Hover effects
+                    - text: and smooth transitions
+                  - listitem [ref=e84]:
+                    - strong [ref=e85]: Responsive grid layout
+                    - text: that stacks on mobile
+                  - listitem [ref=e86]:
+                    - strong [ref=e87]: Dark theme
+                    - text: with gradient backgrounds
+                - paragraph [ref=e88]: The component is fully customizable via props and uses Tailwind CSS for styling.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e89]:
+        
+  - alert [ref=e90]
